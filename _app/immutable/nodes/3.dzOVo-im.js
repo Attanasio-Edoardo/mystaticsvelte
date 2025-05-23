@@ -1,0 +1,1 @@
+import{t as o,a as p}from"../chunks/D-UNy9-O.js";import"../chunks/BIUmOpKY.js";import{n as e}from"../chunks/DUijmhlk.js";function i(t){e();var a=o("Questa è la pagina ABOUT 2?");p(t,a)}export{i as component};
